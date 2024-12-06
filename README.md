@@ -36,11 +36,7 @@ AHstore is a modern e-commerce platform specializing in custom sneakers and foot
 - CSS3  
 - JavaScript  
 - Responsive Design Framework  
-
-### Backend  
-- [Your Backend Technology]  
-- Payment Gateway Integration  
-- Secure Authentication System  
+  
 
 ## Installation 💻  
 
@@ -59,13 +55,13 @@ npm run dev
   
 
 ## Contributing 🤝  
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests.  
+We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests. 
 
 ## License 📄  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
 
 ## Support 💪  
-For support, please email support@ahstore.com or open an issue in this repository.  
+For support, please email Ahmedhaiballa33@gmail or open an issue in this repository.  
 
 ## Screenshots 📸  
 
